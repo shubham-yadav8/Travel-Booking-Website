@@ -58,7 +58,7 @@ section.home {
 .home .home-box {
     width: 100%;
     height: 100%;
-    background: linear-gradient(rgba(0,0,0,.1), rgba(0,0,0,.1)), url("home-background.jpg");
+    background: linear-gradient(rgba(0,0,0,.1), rgba(0,0,0,.1)), url("/Images/home-background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -455,7 +455,7 @@ section.home {
 
 /* feedback section starts here  */
 .feedback {
-    background: url("section-background.jpg");
+    background: url("/Images/section-background.jpg");
     background-position: center;
     background-size: cover;
     margin-top: 6rem;
