@@ -1,0 +1,3 @@
+This is a modern animated responsive travel booking web page. It features a responsive design, with sections for home, travel, destinations, featured offers, adventurer's voices, latest articles, and a footer. The page is animated using the GSAP library to create scrolling triggers and swipe animations for a more interactive user experience. The page also includes a navigation menu with a responsive design that is activated with a click event, and a search bar for finding travel information.
+
+Get the [preview](https://shubham-yadav8.github.io/Travel-Booking-Website/) of this code to see the web page result.
